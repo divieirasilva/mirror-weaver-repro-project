@@ -1,0 +1,45 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# =========== #
+# Tiled2Unity #
+# =========== #
+# Assets/Tiled2Unity/Materials
+# Assets/Tiled2Unity/Meshes
+# Assets/Tiled2Unity/Prefabs
+# Assets/Tiled2Unity/Textures
+Assets/Tiled2Unity/Imported
+Assets/Resources/Sprites/UI/Thumbs.db.meta
